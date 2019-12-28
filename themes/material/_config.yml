@@ -1,0 +1,64 @@
+author: 杭城小刘 # 作者
+description: 杭城小刘的个人博客
+keyword: 杭城小刘, iOS, VueJS, Flutter, React, React native, Swift, Python, Swift, Ruby, JS, Shell, 多端融合能力, 动态化, 工程化, 计算机网络, 算法, 操作系统, 杭州, 工程师, 布偶猫, 英短蓝猫, 程序员
+favicon: source/css/images/favicon.ico
+
+excerpt_link: Read more
+
+menu:
+ 主页: /
+ 标签: /tags/
+ 归档: /archives/
+ 项目: /project/
+ 关于: /about/
+
+# highlight
+highlight:
+  tomorrow
+
+# catalog
+catalog: true
+
+# donate
+donate: true
+
+# qrcode
+qrcode: true
+
+# comment
+# you can set gitment, uyan or disqus
+
+# comment: gitment
+
+# gitment config
+gitment:
+  # enable: true
+  # mint: true
+  # count: true
+  # lazy: false
+  # githubID: FantasticLBP
+  # repo: BlogComment
+  # client_id: fb2253e8c91da9ff1efd
+  # client_secret: aa4bdc8cc416db70bf06ce282d48cd58fc04dcfd
+
+about: 
+  banner: http://file.muyutech.com/about.jpg
+  avatar: https://avatar-static.segmentfault.com/233/198/2331980259-5d7d132970ed9_huge256
+  description: '<p class="description"><p style="text-align:left; margin:100px 120px 20px 120px; font-size:17px; line-height:33px;">我是 LBP，毕业于杭州师范大学，软件工程专业</p>
+<p style="text-align:left; margin:0px 120px 20px 120px; font-size:17px; line-height:33px;">现在是一名 iOS 资深工程师。专注于大前端领域，大前端模式下的技术都感兴趣，多端融合能力、动态化、工程化都是研究的内容。主要语言 Objective-C、Javascript、html、Ruby、Shell、Nodejs、PHP。坚持 Markdown 写作</p>
+<p style="text-align:left; margin:0 120px 20px 120px; font-size:17px; line-height:33px;">喜欢探索和研究未知领域和事物原理，最近在学习金融知识。不断学习进阶中...</p>
+<p style="text-align:left; margin:0 120px 20px 120px; font-size:17px; line-height:33px;">喜欢美食、电影、乒乓球、山地车、宠物，养了 🐱 英短蓝猫和布偶猫 ，在杭州的可以和我约 🏓️ 或者爬山或者线下聊技术 💻</p>
+<p style="text-align:left; margin:0 120px 20px 120px; font-size:17px; line-height:33px;">Stay hungry, stay foolish. &&  Just have a little faith.</p>
+</p>'
+  weibo_username: 3194053975
+  email_username: wsbglbp@outlook.com
+  github_username: FantasticLBP
+  juejin_username: 57c108b8a633bd005d67e4a6
+  segmentfault_username: fantasticbaby
+  linkedin_username: 斌鹏-刘-8a9a04142
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: false
+  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
