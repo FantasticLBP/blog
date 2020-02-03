@@ -26,7 +26,7 @@ let tags = {
 
 // 文件夹下面的 Chatper5.md 和 .DS_Store 属于不合格文件路径
 function filenameIsInvalidate (filename) {
-    return (filename.indexOf('.DS_Store') == 0 || filename.indexOf('chapter') == 0 )
+    return (String(filename).toLocaleLowerCase().indexOf('.DS_Store') == 0 || String(filename).toLocaleLowerCase().indexOf('chapter') == 0 )
 }
 
 function createBlogFile (index) {

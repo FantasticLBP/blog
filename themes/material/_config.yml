@@ -28,18 +28,18 @@ qrcode: true
 # comment
 # you can set gitment, uyan or disqus
 
-# comment: gitment
+comment: gitment
 
 # gitment config
 gitment:
-  # enable: true
-  # mint: true
-  # count: true
-  # lazy: false
-  # githubID: FantasticLBP
-  # repo: BlogComment
-  # client_id: fb2253e8c91da9ff1efd
-  # client_secret: aa4bdc8cc416db70bf06ce282d48cd58fc04dcfd
+  enable: true
+  mint: true
+  count: true
+  lazy: false
+  githubID: FantasticLBP
+  repo: BlogComment
+  client_id: c07f0eeac7d8f4f1f594
+  client_secret: d848a9c6c0f9bf93733fe11637d2148df964bf99
 
 about: 
   banner: http://file.muyutech.com/about.jpg
