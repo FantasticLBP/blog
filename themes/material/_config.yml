@@ -62,3 +62,5 @@ mathjax:
   enable: true
   per_page: false
   cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+baidu_id: 123

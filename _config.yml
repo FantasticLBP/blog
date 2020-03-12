@@ -103,3 +103,4 @@ deploy:
   user: root
   root: /root/Blog/HexoBlog
   port: 22
+ba_track_id: 123
